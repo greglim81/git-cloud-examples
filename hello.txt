@@ -1,5 +1,2 @@
 hello world
-Steve Jobs
-Tim Cook
-Elon Musk
-Add dark mode feature
+Thanks for visiting.
